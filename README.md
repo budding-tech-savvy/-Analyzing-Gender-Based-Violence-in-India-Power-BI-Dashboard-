@@ -2,6 +2,7 @@
 I’m excited to share my latest project, a Power BI dashboard that sheds light on the crimes committed against women across various states in India. The goal of this project is to visually represent important data, helping others better understand the trends and challenges women face regarding safety and justice.
 
 
+
 ![image](https://github.com/user-attachments/assets/1a8396d2-939a-4440-9f04-2737ab5d3e34)
 
 
